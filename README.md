@@ -1,7 +1,8 @@
 - 👋 Hi, I’m John F. Adamek
-- 👀 I’m interested in using various statistical methods and algorithms to test novel research questions on data relating to sports and cognitive function 
-- 🌱 I’m currently learning bayesian statistics and using bayes factor as a statistical technique to complement frequentist hypothesis testing
-- 💞️ I’m looking to collaborate on data projects related to sport/exercise/movement and brain function
+- 😎 Rstudio enthusiast! Love all things R
+- 👀 I’m interested in using various statistical methods and ML algorithms to examine novel research questions on data relating to sports/Exercise and behavior/cognitive function 
+- 🌱 I’m currently seeking a job working as a quantitative/behavioral analysis.
+- 💞️ Always looking to collaborate on data projects! 
 - 📫 How to reach me: https://www.linkedin.com/in/johnadamek/ 
 - 💻 Personal Website: https://adamek2120.github.io/
 
