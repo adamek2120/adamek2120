@@ -11,9 +11,9 @@ Skills:
 *   Scientific reporting & presentation | Problem solving | Team leadership & management
 *   UX research | Human factors | Client relations | Clinical data management | Project management
 *   Data Analytic Languages:
-*     R, Python, SPSS, MPlus, Matlab, SAS
+      - R, Python, SPSS, MPlus, Matlab, SAS
 *  Survey Software:
-*      Qualtrics, Redcap, Axure
+      - Qualtrics, Redcap, Axure
 
 
 Education:
