@@ -1,4 +1,4 @@
-- 👋 Hi, I’m John F. Adamek CSCS MS
+- 👋 Hi, I’m John F. Adamek CSCS Ph.D.
 - Ph.D. in Biobehavioral Kinesiology - University of Illinois Urbana-Champaign
 - M.S. and B.S. in Sports Science - United States Sports Academy
 - 😎 Rstudio enthusiast! Love all things R
